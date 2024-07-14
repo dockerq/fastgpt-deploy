@@ -33,11 +33,11 @@ version in current fastgpt
 1. change config in `config.json`
 2. remove fastgpt
     ```shell
-    docker-compose down fastgpt
+    docker compose down fastgpt
     ```
 3. rerun fastgpt
     ```shell
-    docker-compose up -d fastgpt
+    docker compose up -d fastgpt
     ```
 
 ## ollama endpoint
