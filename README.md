@@ -47,4 +47,4 @@ version in current fastgpt
 ## ollama endpoint
 
 1. if you run in Linux, endpoint is `http://172.17.0.1:11434`
-2. if you run in MaxOS, endpoint is `http://host.docker.internal:11434`
+2. if you run in MacOS, endpoint is `http://host.docker.internal:11434`
